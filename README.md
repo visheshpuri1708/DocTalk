@@ -1,24 +1,19 @@
 <b>DocTalk</b> is a virtual Doctor appointment booking website that has been developed to override the problems of booking an appointment with a doctor especially prevalent in the pandemic situation. This website is supported to eliminate the hardships faced by this existing manual booking system. No formal knowledge is needed for the user to use this system. 
 
+The website is built using ReactJS, JavaScript, CSS and 'antd' library is used for the icons. The database is being managed using MongoDB. The alerts are sent using react-hot-toast module.
 
 
-<b>Features of the website</b>:
+<b>Steps to book an appointment</b>:
 
-The patient can choose a doctor to consult.
+The website is hosted using Heroku and can be visited here: https://doctalk.herokuapp.com/
 
-The system will allow the user to book appointment time based on the doctor's schedule.
+A user has to register for an account using name, email and password. After filling all the details, the user will be sent to login screen where the user has to enter the email and password to sign in.
 
-The patient can also view his current and past appointments.
+After successful login, the user will be able to see the list of all doctors registered on the platform. The user can see all their appointments in the Appointments section.
 
-The doctor on the other hand can accept/reject the appointment.
+If a user wants to apply for a doctor account, they can head to the Apply-Doctor tab in the options pane and fill in the personal and professional details. After submitting details, the request is sent to the admin for approval or rejection. Notifications are sent to both user and admin regarding the approvals or rejections.
 
-The doctor can view all his current and past appointments.
+If a user wants to book an appointment with a doctor, they just have to click on a doctors tab and the system will ask for a date and time to check the availability of the doctor. If the doctor is available, the Book Now button will be activated and the user will be able to book the appointment.
 
-Registration is done as a user only and an application for a doctor account can be done within the user account.
-
-The admin has to approve the doctor appointment after which the doctor can manage the appointments and can also make changes to his/her profile.
-
-Notifications are sent to users regarding doctor’s account approval or rejection and appointment booking confirmations.
-
-
+The doctor will get a notification regarding the appointment and the doctor has to approve the appointment or reject it. The notifications are sent for approvals or rejections. The doctor can view all his current and past appointments. A doctor is able to update their profile in the Profile section.
 
