@@ -1,6 +1,6 @@
 <b>DocTalk</b> is a virtual Doctor appointment booking website that has been developed to override the problems of booking an appointment with a doctor especially prevalent in the pandemic situation. This website is supported to eliminate the hardships faced by this existing manual booking system. No formal knowledge is needed for the user to use this system. 
 
-The website is built using ReactJS, JavaScript, CSS and 'antd' library is used for the icons. The database is being managed using MongoDB. The alerts are sent using react-hot-toast module.
+DocTalk is a MERN stack website built using ReactJS, JavaScript, CSS and 'antd' library is used for the icons. The database is being managed using MongoDB. The alerts are sent using react-hot-toast module.
 
 
 <b>Steps to book an appointment</b>:
