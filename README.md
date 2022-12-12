@@ -17,3 +17,4 @@ The website is built using ReactJS, JavaScript, CSS and 'antd' library is used f
 
 * The doctor will get a notification regarding the appointment and the doctor has to approve the appointment or reject it. The notifications are sent for approvals or rejections. The doctor can view all his current and past appointments. A doctor is able to update their profile in the Profile section.
 
+* Logout button is provided to logout from the user account.
