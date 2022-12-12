@@ -8,6 +8,11 @@ DocTalk is a MERN stack website built using ReactJS, JavaScript, CSS and 'antd' 
 * The website is hosted using Heroku and can be visited here: https://doctalk.herokuapp.com/
 
 * A user has to register for an account using name, email and password. After filling all the details, the user will be sent to login screen where the user has to enter the email and password to sign in.
+<p align="center">
+  <img src="/client/src/register.png" width="39%" />
+  <img src="/client/src/login.png" width="39%" /> 
+  
+</p>
 
 * After successful login, the user will be able to see the list of all doctors registered on the platform. The user can see all their appointments in the Appointments section.
 
