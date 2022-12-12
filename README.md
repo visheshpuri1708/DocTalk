@@ -16,13 +16,13 @@ DocTalk is a MERN stack website built using ReactJS, JavaScript, CSS and 'antd' 
 
 * After successful login, the user will be able to see the list of all doctors registered on the platform. The user can see all their appointments in the Appointments section. 
 <p align="center">
-  <img src="/doctor_list.png" width="39%" />
+  <img src="/doctor_list.png" width="60%" />
 </p>
 
 * If a user wants to apply for a doctor account, they can head to the Apply-Doctor tab in the options pane and fill in the personal and professional details. After submitting details, the request is sent to the admin for approval or rejection. Notifications are sent to both user and admin regarding the approvals or rejections.
 <p align="center">
-  <img src="/apply_doctor.png" width="39%" />
-  <img src="/admin_notification.png" width="39%" />
+  <img src="/apply_doctor.png" width="60%" />
+  <img src="/admin_notification.png" width="60%" />
 </p>
 
 * If a user wants to book an appointment with a doctor, they just have to click on a doctors tab and the system will ask for a date and time to check the availability of the doctor. If the doctor is available, the Book Now button will be activated and the user will be able to book the appointment.
