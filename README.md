@@ -31,3 +31,50 @@ DocTalk is a MERN stack website built using ReactJS, JavaScript, CSS and 'antd' 
 * The doctor will get a notification regarding the appointment and the doctor has to approve the appointment or reject it. The notifications are sent for approvals or rejections. The doctor can view all his current and past appointments. A doctor is able to update their profile in the Profile section.
 
 * Logout button is provided to logout from the user account.
+
+DoctorTalk Analytics Dashboard (Data Science Extension)
+
+To enhance DocTalk with a Data Science & Analytics layer, we built a Python-based dashboard using:
+
+Streamlit
+
+Pandas
+
+Plotly
+
+PyMongo
+
+This dashboard provides:
+
+📌 Total Appointments
+📌 Active Bookings
+📌 Cancellation Rate
+📌 Average Wait Time
+📌 Monthly Booking Trends
+📌 Appointments by Region
+📌 Specialty Distribution
+📌 Status Breakdown
+
+Running the Analytics Dashboard
+1️. Install Python Dependencies
+
+Make sure Python 3.9+ is installed.
+
+pip install streamlit pymongo pandas plotly matplotlib
+2️. Ensure MongoDB is Running
+
+If running locally:
+
+mongod
+
+Default connection used in dashboard:
+
+mongodb://localhost:27017
+
+Database name:
+
+doctalk
+
+Collection name:
+
+appointments
