@@ -10,7 +10,7 @@ db = client["doctalk"]
 collection = db["appointments"]
 
 st.set_page_config(layout="wide")
-st.title("📊 DoctorTalk Analytics Dashboard")
+st.title("DoctorTalk Analytics Dashboard")
 
 @st.cache_data
 def load_data():
