@@ -78,3 +78,6 @@ doctalk
 Collection name:
 
 appointments
+<p align="center">
+  <img src="/client/src/dashboard.png" width="60%" />  
+</p>
